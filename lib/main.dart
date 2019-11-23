@@ -15,6 +15,7 @@ class ShuttleApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return new MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: "BU Shuttle",
       theme: new ThemeData(brightness: Brightness.dark, fontFamily: 'Avenir'),
       home: new HomeScreen(),
