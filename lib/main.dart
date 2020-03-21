@@ -2472,6 +2472,7 @@ class _StopDetailsAnimator extends State<StopDetailsAnimator>
 
   @override
   void initState() {
+    super.initState();
     _controller = new AnimationController(
       duration: const Duration(milliseconds: 2200),
       vsync: this,
@@ -2558,7 +2559,7 @@ class _StopDetailsAnimator extends State<StopDetailsAnimator>
         controller: _controller,
       );
     } else {
-
+      return new Container();
     }
   }
 }
@@ -2777,7 +2778,7 @@ class ImageViewScreen extends StatelessWidget {
 
 class StopCard extends StatelessWidget {
   StopCard(this.stop);
-  String stop;
+  final String stop;
 
   BoxDecoration _buildShadowAndRoundedCorners() {
     return BoxDecoration(
@@ -2793,7 +2794,7 @@ class StopCard extends StatelessWidget {
     );
   }
 
-  var moment = new Moment.now().locale(new ShortLocaleEn());
+  final moment = new Moment.now().locale(new ShortLocaleEn());
 
   @override
   Widget build(BuildContext context) {
