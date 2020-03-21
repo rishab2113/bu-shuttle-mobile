@@ -375,7 +375,7 @@ class HomeState extends State<HomeScreen> {
                 style: new TextStyle(
                   color: Colors.white,
 //                  fontWeight: FontWeight.bold,
-                  fontSize: 25.0,
+                  fontSize: 20.0,
                   fontFamily: 'Avenir',
                 ),
               ),
@@ -406,7 +406,7 @@ class HomeState extends State<HomeScreen> {
                 style: new TextStyle(
                   color: Colors.white,
 //                  fontWeight: FontWeight.bold,
-                  fontSize: 20.0,
+                  fontSize: 15.0,
                   fontFamily: 'Avenir',
                 ),
               ),
@@ -431,7 +431,7 @@ class HomeState extends State<HomeScreen> {
                 style: new TextStyle(
                   color: Colors.white,
 //                  fontWeight: FontWeight.bold,
-                  fontSize: 25.0,
+                  fontSize: 20.0,
                   fontFamily: 'Avenir',
                 ),
               ),
@@ -492,7 +492,7 @@ class HomeState extends State<HomeScreen> {
                 style: new TextStyle(
                   color: Colors.white,
 //                  fontWeight: FontWeight.bold,
-                  fontSize: 25.0,
+                  fontSize: 20.0,
                   fontFamily: 'Avenir',
                 ),
               ),
@@ -523,7 +523,7 @@ class HomeState extends State<HomeScreen> {
                 style: new TextStyle(
                   color: Colors.white,
 //                  fontWeight: FontWeight.bold,
-                  fontSize: 20.0,
+                  fontSize: 15.0,
                   fontFamily: 'Avenir',
                 ),
               ),
@@ -548,7 +548,7 @@ class HomeState extends State<HomeScreen> {
                 style: new TextStyle(
                   color: Colors.white,
 //                  fontWeight: FontWeight.bold,
-                  fontSize: 25.0,
+                  fontSize: 20.0,
                   fontFamily: 'Avenir',
                 ),
               ),
@@ -609,7 +609,7 @@ class HomeState extends State<HomeScreen> {
                 style: new TextStyle(
                   color: Colors.white,
 //                  fontWeight: FontWeight.bold,
-                  fontSize: 25.0,
+                  fontSize: 20.0,
                   fontFamily: 'Avenir',
                 ),
               ),
@@ -640,7 +640,7 @@ class HomeState extends State<HomeScreen> {
                 style: new TextStyle(
                   color: Colors.white,
 //                  fontWeight: FontWeight.bold,
-                  fontSize: 20.0,
+                  fontSize: 15.0,
                   fontFamily: 'Avenir',
                 ),
               ),
@@ -665,7 +665,7 @@ class HomeState extends State<HomeScreen> {
                 style: new TextStyle(
                   color: Colors.white,
 //                  fontWeight: FontWeight.bold,
-                  fontSize: 25.0,
+                  fontSize: 20.0,
                   fontFamily: 'Avenir',
                 ),
               ),
@@ -726,7 +726,7 @@ class HomeState extends State<HomeScreen> {
                 style: new TextStyle(
                   color: Colors.white,
 //                  fontWeight: FontWeight.bold,
-                  fontSize: 25.0,
+                  fontSize: 20.0,
                   fontFamily: 'Avenir',
                 ),
               ),
@@ -757,7 +757,7 @@ class HomeState extends State<HomeScreen> {
                 style: new TextStyle(
                   color: Colors.white,
 //                  fontWeight: FontWeight.bold,
-                  fontSize: 20.0,
+                  fontSize: 15.0,
                   fontFamily: 'Avenir',
                 ),
               ),
@@ -782,7 +782,7 @@ class HomeState extends State<HomeScreen> {
                 style: new TextStyle(
                   color: Colors.white,
 //                  fontWeight: FontWeight.bold,
-                  fontSize: 25.0,
+                  fontSize: 20.0,
                   fontFamily: 'Avenir',
                 ),
               ),
@@ -843,7 +843,7 @@ class HomeState extends State<HomeScreen> {
                 style: new TextStyle(
                   color: Colors.white,
 //                  fontWeight: FontWeight.bold,
-                  fontSize: 25.0,
+                  fontSize: 20.0,
                   fontFamily: 'Avenir',
                 ),
               ),
@@ -874,7 +874,7 @@ class HomeState extends State<HomeScreen> {
                 style: new TextStyle(
                   color: Colors.white,
 //                  fontWeight: FontWeight.bold,
-                  fontSize: 20.0,
+                  fontSize: 15.0,
                   fontFamily: 'Avenir',
                 ),
               ),
@@ -899,7 +899,7 @@ class HomeState extends State<HomeScreen> {
                 style: new TextStyle(
                   color: Colors.white,
 //                  fontWeight: FontWeight.bold,
-                  fontSize: 25.0,
+                  fontSize: 20.0,
                   fontFamily: 'Avenir',
                 ),
               ),
@@ -960,7 +960,7 @@ class HomeState extends State<HomeScreen> {
                 style: new TextStyle(
                   color: Colors.white,
 //                  fontWeight: FontWeight.bold,
-                  fontSize: 25.0,
+                  fontSize: 20.0,
                   fontFamily: 'Avenir',
                 ),
               ),
@@ -991,7 +991,7 @@ class HomeState extends State<HomeScreen> {
                 style: new TextStyle(
                   color: Colors.white,
 //                  fontWeight: FontWeight.bold,
-                  fontSize: 20.0,
+                  fontSize: 15.0,
                   fontFamily: 'Avenir',
                 ),
               ),
@@ -1016,7 +1016,7 @@ class HomeState extends State<HomeScreen> {
                 style: new TextStyle(
                   color: Colors.white,
 //                  fontWeight: FontWeight.bold,
-                  fontSize: 25.0,
+                  fontSize: 20.0,
                   fontFamily: 'Avenir',
                 ),
               ),
@@ -1077,7 +1077,7 @@ class HomeState extends State<HomeScreen> {
                 style: new TextStyle(
                   color: Colors.white,
 //                  fontWeight: FontWeight.bold,
-                  fontSize: 25.0,
+                  fontSize: 20.0,
                   fontFamily: 'Avenir',
                 ),
               ),
@@ -1108,7 +1108,7 @@ class HomeState extends State<HomeScreen> {
                 style: new TextStyle(
                   color: Colors.white,
 //                  fontWeight: FontWeight.bold,
-                  fontSize: 20.0,
+                  fontSize: 15.0,
                   fontFamily: 'Avenir',
                 ),
               ),
@@ -1133,7 +1133,7 @@ class HomeState extends State<HomeScreen> {
                 style: new TextStyle(
                   color: Colors.white,
 //                  fontWeight: FontWeight.bold,
-                  fontSize: 25.0,
+                  fontSize: 20.0,
                   fontFamily: 'Avenir',
                 ),
               ),
@@ -1194,7 +1194,7 @@ class HomeState extends State<HomeScreen> {
                 style: new TextStyle(
                   color: Colors.white,
 //                  fontWeight: FontWeight.bold,
-                  fontSize: 25.0,
+                  fontSize: 20.0,
                   fontFamily: 'Avenir',
                 ),
               ),
@@ -1225,7 +1225,7 @@ class HomeState extends State<HomeScreen> {
                 style: new TextStyle(
                   color: Colors.white,
 //                  fontWeight: FontWeight.bold,
-                  fontSize: 20.0,
+                  fontSize: 15.0,
                   fontFamily: 'Avenir',
                 ),
               ),
@@ -1250,7 +1250,7 @@ class HomeState extends State<HomeScreen> {
                 style: new TextStyle(
                   color: Colors.white,
 //                  fontWeight: FontWeight.bold,
-                  fontSize: 25.0,
+                  fontSize: 20.0,
                   fontFamily: 'Avenir',
                 ),
               ),
@@ -1311,7 +1311,7 @@ class HomeState extends State<HomeScreen> {
                 style: new TextStyle(
                   color: Colors.white,
 //                  fontWeight: FontWeight.bold,
-                  fontSize: 25.0,
+                  fontSize: 20.0,
                   fontFamily: 'Avenir',
                 ),
               ),
@@ -1342,7 +1342,7 @@ class HomeState extends State<HomeScreen> {
                 style: new TextStyle(
                   color: Colors.white,
 //                  fontWeight: FontWeight.bold,
-                  fontSize: 20.0,
+                  fontSize: 15.0,
                   fontFamily: 'Avenir',
                 ),
               ),
@@ -1367,7 +1367,7 @@ class HomeState extends State<HomeScreen> {
                 style: new TextStyle(
                   color: Colors.white,
 //                  fontWeight: FontWeight.bold,
-                  fontSize: 25.0,
+                  fontSize: 20.0,
                   fontFamily: 'Avenir',
                 ),
               ),
@@ -1428,7 +1428,7 @@ class HomeState extends State<HomeScreen> {
                 style: new TextStyle(
                   color: Colors.white,
 //                  fontWeight: FontWeight.bold,
-                  fontSize: 25.0,
+                  fontSize: 20.0,
                   fontFamily: 'Avenir',
                 ),
               ),
@@ -1459,7 +1459,7 @@ class HomeState extends State<HomeScreen> {
                 style: new TextStyle(
                   color: Colors.white,
 //                  fontWeight: FontWeight.bold,
-                  fontSize: 20.0,
+                  fontSize: 15.0,
                   fontFamily: 'Avenir',
                 ),
               ),
@@ -1484,7 +1484,7 @@ class HomeState extends State<HomeScreen> {
                 style: new TextStyle(
                   color: Colors.white,
 //                  fontWeight: FontWeight.bold,
-                  fontSize: 25.0,
+                  fontSize: 20.0,
                   fontFamily: 'Avenir',
                 ),
               ),
@@ -1545,7 +1545,7 @@ class HomeState extends State<HomeScreen> {
                 style: new TextStyle(
                   color: Colors.white,
 //                  fontWeight: FontWeight.bold,
-                  fontSize: 25.0,
+                  fontSize: 20.0,
                   fontFamily: 'Avenir',
                 ),
               ),
@@ -1576,7 +1576,7 @@ class HomeState extends State<HomeScreen> {
                 style: new TextStyle(
                   color: Colors.white,
 //                  fontWeight: FontWeight.bold,
-                  fontSize: 20.0,
+                  fontSize: 15.0,
                   fontFamily: 'Avenir',
                 ),
               ),
@@ -1601,7 +1601,7 @@ class HomeState extends State<HomeScreen> {
                 style: new TextStyle(
                   color: Colors.white,
 //                  fontWeight: FontWeight.bold,
-                  fontSize: 25.0,
+                  fontSize: 20.0,
                   fontFamily: 'Avenir',
                 ),
               ),
@@ -1662,7 +1662,7 @@ class HomeState extends State<HomeScreen> {
                 style: new TextStyle(
                   color: Colors.white,
 //                  fontWeight: FontWeight.bold,
-                  fontSize: 25.0,
+                  fontSize: 20.0,
                   fontFamily: 'Avenir',
                 ),
               ),
@@ -1693,7 +1693,7 @@ class HomeState extends State<HomeScreen> {
                 style: new TextStyle(
                   color: Colors.white,
 //                  fontWeight: FontWeight.bold,
-                  fontSize: 20.0,
+                  fontSize: 15.0,
                   fontFamily: 'Avenir',
                 ),
               ),
@@ -1718,7 +1718,7 @@ class HomeState extends State<HomeScreen> {
                 style: new TextStyle(
                   color: Colors.white,
 //                  fontWeight: FontWeight.bold,
-                  fontSize: 25.0,
+                  fontSize: 20.0,
                   fontFamily: 'Avenir',
                 ),
               ),
@@ -1779,7 +1779,7 @@ class HomeState extends State<HomeScreen> {
                 style: new TextStyle(
                   color: Colors.white,
 //                  fontWeight: FontWeight.bold,
-                  fontSize: 25.0,
+                  fontSize: 20.0,
                   fontFamily: 'Avenir',
                 ),
               ),
@@ -1810,7 +1810,7 @@ class HomeState extends State<HomeScreen> {
                 style: new TextStyle(
                   color: Colors.white,
 //                  fontWeight: FontWeight.bold,
-                  fontSize: 20.0,
+                  fontSize: 15.0,
                   fontFamily: 'Avenir',
                 ),
               ),
@@ -1835,7 +1835,7 @@ class HomeState extends State<HomeScreen> {
                 style: new TextStyle(
                   color: Colors.white,
 //                  fontWeight: FontWeight.bold,
-                  fontSize: 25.0,
+                  fontSize: 20.0,
                   fontFamily: 'Avenir',
                 ),
               ),
@@ -1896,7 +1896,7 @@ class HomeState extends State<HomeScreen> {
                 style: new TextStyle(
                   color: Colors.white,
 //                  fontWeight: FontWeight.bold,
-                  fontSize: 25.0,
+                  fontSize: 20.0,
                   fontFamily: 'Avenir',
                 ),
               ),
@@ -1927,7 +1927,7 @@ class HomeState extends State<HomeScreen> {
                 style: new TextStyle(
                   color: Colors.white,
 //                  fontWeight: FontWeight.bold,
-                  fontSize: 20.0,
+                  fontSize: 15.0,
                   fontFamily: 'Avenir',
                 ),
               ),
@@ -1952,7 +1952,7 @@ class HomeState extends State<HomeScreen> {
                 style: new TextStyle(
                   color: Colors.white,
 //                  fontWeight: FontWeight.bold,
-                  fontSize: 25.0,
+                  fontSize: 20.0,
                   fontFamily: 'Avenir',
                 ),
               ),
